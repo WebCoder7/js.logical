@@ -34,4 +34,23 @@
 // console.log(FunctionA([2],[2]));
 
 
-//   - misol
+//  2 - misol
+
+
+// function myFunc(a, b) {
+//   if (a == 6 || b == 6) {
+//       console.log(true);
+//   } else if (a + b == 6) {
+//       console.log(true);
+//   } else {
+//       console.log(false);
+//   }
+// }
+
+// myFunc(4, 2)
+
+// 4
+
+// let name = +prompt("Ism yozing")
+
+// console.log("Salom " + name + " yaxshimisiz");
